@@ -1,15 +1,3 @@
-Nexus by KK FUNDA
-=================
-
---> Explain the flow diagram.
-
-
-dev1  --> GitHub ---> maven[.war] --->  tomcat 
-
-dev1 --> GitHub ----> maven [.war] ---> tomcat 
-
-
-
 Introduction
 ============
 
@@ -43,14 +31,8 @@ git -->GitHub/Gitlab/bitbucket  --->
 
 IQ] what is the difference between GitHub and nexus?
 
-GitHub: used to manage the source code, Dockerfile  
+GitHub: used to manage the source code, Dockerfile, k8s yaml,ansible playbook,git actions, shell scripting, terraform
 Nexus : used to manage the build artifacts and docker images
-
-
-
-
-
-
 
 
 
