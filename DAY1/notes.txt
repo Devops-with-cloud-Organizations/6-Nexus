@@ -97,10 +97,6 @@ yum install tar wget tree -y
 
 step 8: 
 
-
-
-
-
 wget https://download.sonatype.com/nexus/3/nexus-3.70.1-02-java8-unix.tar.gz
 
 
